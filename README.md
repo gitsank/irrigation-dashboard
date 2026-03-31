@@ -81,3 +81,8 @@ Final Safe Response + Forensic Log
    - Result: normalizer decodes it → BLOCKED
 5. **Show Eval Metrics tab** — live accuracy/latency numbers
 6. **Show Forensic Logs tab** — full audit trail
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1c6d4919-9ad8-4ff8-b498-17a7a001183e" />
+
